@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "caniten1",
+        "1": "caitne2",
+        "2": "caja22"
+      },
+      "name": "default"
+    }
+  }
+}

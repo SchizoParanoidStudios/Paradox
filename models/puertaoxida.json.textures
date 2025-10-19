@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "oci2",
+        "1": "oci1"
+      },
+      "name": "default"
+    }
+  }
+}

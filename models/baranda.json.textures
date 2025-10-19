@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "baranda",
+        "1": "baranda2"
+      },
+      "name": "default"
+    }
+  }
+}

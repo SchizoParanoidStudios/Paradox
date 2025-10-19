@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "puertabajo2",
+        "1": "puertabajoi"
+      },
+      "name": "default"
+    }
+  }
+}

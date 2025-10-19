@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "side",
+        "1": "topetubo",
+        "2": "sideeee"
+      },
+      "name": "default"
+    }
+  }
+}

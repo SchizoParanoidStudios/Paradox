@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mallaaa",
+        "1": "111",
+        "2": "lampara1",
+        "missing": "bajo"
+      },
+      "name": "default"
+    }
+  }
+}

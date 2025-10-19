@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bigainterior2",
+        "1": "bigainterior",
+        "2": "viga"
+      },
+      "name": "default"
+    }
+  }
+}

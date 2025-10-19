@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "caldero",
+        "1": "tubpppp",
+        "2": "plaquita"
+      },
+      "name": "default"
+    }
+  }
+}

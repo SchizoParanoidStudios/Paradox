@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "puertaproo2",
+        "missing": "puertaproo2"
+      },
+      "name": "default"
+    }
+  }
+}

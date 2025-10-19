@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "escalaww",
+        "1": "ironfloor"
+      },
+      "name": "default"
+    }
+  }
+}

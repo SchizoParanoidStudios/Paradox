@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lampara1",
+        "1": "tubpppp",
+        "2": "bajo",
+        "3": "topetubo",
+        "missing": "tubpppp"
+      },
+      "name": "default"
+    }
+  }
+}
