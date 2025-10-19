@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MutantMeat"
+      },
+      {
+        "value": "CUSTOM:Battery"
+      },
+      {
+        "value": "CUSTOM:MutantMeat"
+      },
+      {
+        "value": "CUSTOM:Adrenaline"
+      },
+      {
+        "value": "CUSTOM:EnergyCondenser"
+      },
+      {
+        "value": "CUSTOM:Steroids"
+      },
+      {
+        "value": "CUSTOM:MutantMeat"
+      },
+      {
+        "value": "CUSTOM:Circuit"
+      },
+      {
+        "value": "CUSTOM:MutantMeat"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Implant"
+    },
+    "name": "rinplant",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Paradox",
+    "icon": {
+      "value": "CUSTOM:TimeBomb"
+    },
+    "showSearch": true
+  }
+}
