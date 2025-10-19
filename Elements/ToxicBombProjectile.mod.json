@@ -1,0 +1,24 @@
+{
+  "_fv": 73,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:ToxicBomb"
+    },
+    "showParticles": true,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 2.0,
+    "knockback": 0,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "modelWidth": 0.30000000000000004,
+    "modelHeight": 0.30000000000000004,
+    "onHitsEntity": {
+      "name": "ToxicBombProjectileProjectileHitsLivingEntity"
+    }
+  }
+}

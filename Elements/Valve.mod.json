@@ -1,0 +1,163 @@
+{
+  "_fv": 73,
+  "_type": "animatedblock",
+  "definition": {
+    "texture": "puertaproo",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
+    "renderType": 0,
+    "rotationMode": 2,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "animateBlockItem": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": true,
+    "connectedSides": false,
+    "transparencyType": "CUTOUT",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 3.9,
+        "my": 3.9,
+        "mz": 12.9,
+        "Mx": 12.1,
+        "My": 12.1,
+        "Mz": 13.1,
+        "subtract": false
+      },
+      {
+        "mx": 6.0,
+        "my": 6.0,
+        "mz": 13.5,
+        "Mx": 10.0,
+        "My": 10.0,
+        "Mz": 16.15,
+        "subtract": false
+      },
+      {
+        "mx": 3.0,
+        "my": 3.0,
+        "mz": 12.5,
+        "Mx": 13.0,
+        "My": 13.0,
+        "Mz": 13.5,
+        "subtract": false
+      }
+    ],
+    "name": "Valve",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "hardness": 2.0,
+    "resistance": 15.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Paradox"
+      }
+    ],
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "requiresCorrectTool": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canRedstoneConnect": true,
+    "lightOpacity": 0,
+    "material": {
+      "value": "NONE"
+    },
+    "tickRate": 0,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "canProvidePower": true,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0,
+      "name": "ValveValue"
+    },
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "animationCount": 3.0,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "METAL"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 0,
+    "hasInventory": true,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "generateFeature": false,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "ValveOnBlockRightClicked"
+    },
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "TAG:stone_ore_replaceables"
+      }
+    ],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64,
+    "normal": "valvulaanimada.geo.json",
+    "displaySettings": "valve_displai.json",
+    "vanillaToolTier": "NONE",
+    "blockstateList": []
+  }
+}
