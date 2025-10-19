@@ -1,0 +1,346 @@
+{
+  "shot": {
+    "sounds": [
+      {
+        "name": "paradox:1_compilacion_pa_que_el_cristian_ponga_en_stream_mientras_mea_-_clips_randoms_el_gunther_-_youtube_-_google_chrome_2025-10-06_00-40-34_-_trim",
+        "stream": false
+      }
+    ]
+  },
+  "saw1": {
+    "sounds": [
+      {
+        "name": "paradox:moto2",
+        "stream": false
+      }
+    ]
+  },
+  "saw2": {
+    "sounds": [
+      {
+        "name": "paradox:motorcycle_sound_effect___for_video_editing_-_youtube_-_google_chrome_2025-10-06_00-38-23_-_trim",
+        "stream": false
+      }
+    ]
+  },
+  "gears_ambient": {
+    "sounds": [
+      {
+        "name": "paradox:gears_sounds",
+        "stream": false
+      }
+    ]
+  },
+  "laser": {
+    "sounds": [
+      {
+        "name": "paradox:laser_shot_sound_fxhd",
+        "stream": false
+      }
+    ]
+  },
+  "deatray": {
+    "sounds": [
+      {
+        "name": "paradox:best_sound_effects_electric_shock_tesla_coil_-_youtube_-_google_chrome_2025-10-01_21-19-46_-_trim",
+        "stream": false
+      }
+    ]
+  },
+  "electricgun": {
+    "sounds": [
+      {
+        "name": "paradox:_sfx_electric_air_gun_shot_9hlbyiily44",
+        "stream": false
+      }
+    ]
+  },
+  "teslagun": {
+    "sounds": [
+      {
+        "name": "paradox:electric_sound_fx_-_free_download",
+        "stream": false
+      }
+    ]
+  },
+  "strongman_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:1stroman_uet_11",
+        "stream": false
+      }
+    ]
+  },
+  "atrocity_atak": {
+    "sounds": [
+      {
+        "name": "paradox:atrociti_atak",
+        "stream": false
+      }
+    ]
+  },
+  "atrocity_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:atrociti_jurt_dos1",
+        "stream": false
+      }
+    ]
+  },
+  "attrocity_hurt2": {
+    "sounds": [
+      {
+        "name": "paradox:atrociti_jurt",
+        "stream": false
+      }
+    ]
+  },
+  "atrocity_voice2": {
+    "sounds": [
+      {
+        "name": "paradox:atrociti_vois_dos",
+        "stream": false
+      }
+    ]
+  },
+  "atrcoity_voice_1": {
+    "sounds": [
+      {
+        "name": "paradox:atrociti_vois",
+        "stream": false
+      }
+    ]
+  },
+  "heli_sound1": {
+    "sounds": [
+      {
+        "name": "paradox:eli_dos_",
+        "stream": false
+      }
+    ]
+  },
+  "heli_sound2": {
+    "sounds": [
+      {
+        "name": "paradox:eli_uno",
+        "stream": false
+      }
+    ]
+  },
+  "heli_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:eli_urt1",
+        "stream": false
+      }
+    ]
+  },
+  "heli_voice": {
+    "sounds": [
+      {
+        "name": "paradox:eli_vois1",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_hurt2": {
+    "sounds": [
+      {
+        "name": "paradox:inevrnto_hurt_dos1",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:inevrnto_hurt1",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_voice1": {
+    "sounds": [
+      {
+        "name": "paradox:inevrnto_vois_1",
+        "stream": false
+      }
+    ]
+  },
+  "inspector_voice1": {
+    "sounds": [
+      {
+        "name": "paradox:inspector_vois_dos1",
+        "stream": false
+      }
+    ]
+  },
+  "inspectro_voice": {
+    "sounds": [
+      {
+        "name": "paradox:inspector_vois1",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_voice2": {
+    "sounds": [
+      {
+        "name": "paradox:invento_vois",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_voice3": {
+    "sounds": [
+      {
+        "name": "paradox:inventor_vois_dos",
+        "stream": false
+      }
+    ]
+  },
+  "inventor_hurt3": {
+    "sounds": [
+      {
+        "name": "paradox:invento_jurt_dos",
+        "stream": false
+      }
+    ]
+  },
+  "strongman_hurt2": {
+    "sounds": [
+      {
+        "name": "paradox:stroman_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "strongman_voice1": {
+    "sounds": [
+      {
+        "name": "paradox:stroman_ide",
+        "stream": false
+      }
+    ]
+  },
+  "strongman_voice2": {
+    "sounds": [
+      {
+        "name": "paradox:stroman_idle",
+        "stream": false
+      }
+    ]
+  },
+  "strongman_voice3": {
+    "sounds": [
+      {
+        "name": "paradox:stroman_ilde",
+        "stream": false
+      }
+    ]
+  },
+  "toxic_idle": {
+    "sounds": [
+      {
+        "name": "paradox:toxic_idle",
+        "stream": false
+      }
+    ]
+  },
+  "toxic_voice2": {
+    "sounds": [
+      {
+        "name": "paradox:toxic_uno",
+        "stream": false
+      }
+    ]
+  },
+  "toxic_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:toxic-urt",
+        "stream": false
+      }
+    ]
+  },
+  "welder_voice": {
+    "sounds": [
+      {
+        "name": "paradox:welder-vois",
+        "stream": false
+      }
+    ]
+  },
+  "welder_hurt": {
+    "sounds": [
+      {
+        "name": "paradox:wlexer-urt",
+        "stream": false
+      }
+    ]
+  },
+  "worker_agression": {
+    "sounds": [
+      {
+        "name": "paradox:worker-agresion",
+        "stream": false
+      }
+    ]
+  },
+  "worker_idle2": {
+    "sounds": [
+      {
+        "name": "paradox:worker-udle",
+        "stream": false
+      }
+    ]
+  },
+  "worker_idle3": {
+    "sounds": [
+      {
+        "name": "paradox:worker-udle-2",
+        "stream": false
+      }
+    ]
+  },
+  "worker_hurt1": {
+    "sounds": [
+      {
+        "name": "paradox:worker-urt",
+        "stream": false
+      }
+    ]
+  },
+  "worker_hurt2": {
+    "sounds": [
+      {
+        "name": "paradox:worker-urt2",
+        "stream": false
+      }
+    ]
+  },
+  "paradox": {
+    "sounds": [
+      {
+        "name": "paradox:aud-20251017-wa0006",
+        "stream": true
+      }
+    ]
+  },
+  "noise": {
+    "sounds": [
+      {
+        "name": "paradox:aud-20250916-wa0001",
+        "stream": false
+      }
+    ]
+  },
+  "industrial": {
+    "sounds": [
+      {
+        "name": "paradox:aud-20250916-wa0002",
+        "stream": true
+      }
+    ]
+  }
+}
