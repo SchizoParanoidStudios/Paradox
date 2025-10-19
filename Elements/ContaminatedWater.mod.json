@@ -1,0 +1,62 @@
+{
+  "_fv": 73,
+  "_type": "fluid",
+  "definition": {
+    "name": "Contaminated Water",
+    "bucketName": "Contaminated Water Bucket",
+    "textureStill": "shiwater",
+    "textureFlowing": "shiwater",
+    "textureRenderOverlay": "",
+    "hasFog": true,
+    "fogColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "WATER_SPLASH"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Paradox"
+      }
+    ],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onEntityCollides": {
+      "name": "ContaminatedWaterMobplayerCollidesBlock"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 73,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field></block><block type=\"item_animation\" inline=\"false\" x=\"45\" y=\"176\"><field name=\"name\">CUSTOM:NailShotgun</field><value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value><value name=\"animation\"><block type=\"text\"><field name=\"TEXT\">shot</field></block></value><next><block type=\"stop_armor_animation\" inline=\"false\"><field name=\"name\"></field><value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value></block></next></block><block type=\"set_armor_animation\" x=\"-12\" y=\"311\"><field name=\"name\"></field><value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value><value name=\"animation\"><block type=\"text\"><field name=\"TEXT\">animation</field></block></value></block><block type=\"stop_item_animation\" x=\"69\" y=\"364\"><field name=\"name\"></field><value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value></block><block type=\"stop_item_animation\" x=\"-102\" y=\"463\"><field name=\"name\"></field><value name=\"item\"><block type=\"itemstack_to_mcitem\"></block></value></block></xml>"
+  }
+}
